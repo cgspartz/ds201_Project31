@@ -1,116 +1,324 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Worksheet</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
-    
-    
-   
-   <thead>      
-      <tr>
-         <th aria-label="Game (# = Opp. LHS)" data-stat="header" scope="col" class=" poptip center">Game (# = Opp. LHS)</th>
-         <th aria-label="C" data-stat="C" scope="col" class=" poptip center">C</th>
-         <th aria-label="Singles" data-stat="1B" scope="col" class=" poptip center">1B</th>
-         <th aria-label="Doubles" data-stat="2B" scope="col" class=" poptip center">2B</th>
-         <th aria-label="Triples" data-stat="3B" scope="col" class=" poptip center">3B</th>
-         <th aria-label="SS" data-stat="SS" scope="col" class=" poptip center">SS</th>
-         <th aria-label="LF" data-stat="LF" scope="col" class=" poptip center">LF</th>
-         <th aria-label="CF" data-stat="CF" scope="col" class=" poptip center">CF</th>
-         <th aria-label="RF" data-stat="RF" scope="col" class=" poptip center">RF</th>
-         <th aria-label="P" data-stat="P" scope="col" class=" poptip center">P</th>
-         <th aria-label="DH" data-stat="DH" scope="col" class=" poptip center">DH</th>
-      </tr>
-      </thead>
-<tbody><tr class="R" data-row="0"><th scope="row" class="left " data-stat="header">2021. Tue, Jul 13, 2021 at N.L. W (5-2)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left guerrvl02 white" data-stat="1B">Guerrero</td><td class="left semiema01 gray" data-stat="2B">Semien</td><td class="left deverra01 white" data-stat="3B">Devers</td><td class="left bogaexa01 gray" data-stat="SS">Bogaerts</td><td class="left hernate01 white" data-stat="LF">Hernandez</td><td class="left mullice01 gray" data-stat="CF">Mullins</td><td class="left judgeaa01 white" data-stat="RF">Judge</td><td class="left ohtansh01 gray" data-stat="P">Ohtani</td><td class="left white iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="1"><th scope="row" class="left " data-stat="header">2019. Tue, Jul 9, 2019 vs N.L. W (4-3)#</th><td class="left sanchga02 white" data-stat="C">Sanchez</td><td class="left santaca01 gray" data-stat="1B">Santana</td><td class="left lemahdj01 white" data-stat="2B">LeMahieu</td><td class="left bregmal01 gray" data-stat="3B">Bregman</td><td class="left polanjo01 white" data-stat="SS">Polanco</td><td class="left brantmi02 gray" data-stat="LF">Brantley</td><td class="left troutmi01 white" data-stat="CF">Trout</td><td class="left springe01 gray" data-stat="RF">Springer</td><td class="left verlaju01 white" data-stat="P">Verlander</td><td class="left martijd02 gray" data-stat="DH">Martinez</td></tr>
-<tr class="R" data-row="2"><th scope="row" class="left " data-stat="header">2018. Tue, Jul 17, 2018 at N.L. W (8-6)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left abreujo02 white" data-stat="1B">Abreu</td><td class="left altuvjo01 gray" data-stat="2B">Altuve</td><td class="left ramirjo01 white" data-stat="3B">Ramirez</td><td class="left machama01 gray" data-stat="SS">Machado</td><td class="left judgeaa01 white" data-stat="LF">Judge</td><td class="left troutmi01 white" data-stat="CF">Trout</td><td class="left bettsmo01 white" data-stat="RF">Betts</td><td class="left salech01 gray" data-stat="P">Sale</td><td class="left martijd02 gray" data-stat="DH">Martinez</td></tr>
-<tr class="R" data-row="3"><th scope="row" class="left " data-stat="header">2017. Tue, Jul 11, 2017 at N.L. W (2-1)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left smoakju01 gray" data-stat="1B">Smoak</td><td class="left altuvjo01 gray" data-stat="2B">Altuve</td><td class="left ramirjo01 white" data-stat="3B">Ramirez</td><td class="left correca01 white" data-stat="SS">Correa</td><td class="left springe01 gray" data-stat="LF">Springer</td><td class="left bettsmo01 gray" data-stat="CF">Betts</td><td class="left judgeaa01 gray" data-stat="RF">Judge</td><td class="left salech01 gray" data-stat="P">Sale</td><td class="left dickeco01 white" data-stat="DH">Dickerson</td></tr>
-<tr class="R" data-row="4"><th scope="row" class="left " data-stat="header">2016. Tue, Jul 12, 2016 vs N.L. W (4-2)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left hosmeer01 white" data-stat="1B">Hosmer</td><td class="left altuvjo01 gray" data-stat="2B">Altuve</td><td class="left machama01 gray" data-stat="3B">Machado</td><td class="left bogaexa01 gray" data-stat="SS">Bogaerts</td><td class="left bradlja02 white" data-stat="LF">Bradley</td><td class="left troutmi01 white" data-stat="CF">Trout</td><td class="left bettsmo01 white" data-stat="RF">Betts</td><td class="left salech01 gray" data-stat="P">Sale</td><td class="left ortizda01 gray" data-stat="DH">Ortiz</td></tr>
-<tr class="R" data-row="5"><th scope="row" class="left " data-stat="header">2015. Tue, Jul 14, 2015 at N.L. W (6-3)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left pujolal01 gray" data-stat="1B">Pujols</td><td class="left altuvjo01 gray" data-stat="2B">Altuve</td><td class="left donaljo02 white" data-stat="3B">Donaldson</td><td class="left escobal02 white" data-stat="SS">Escobar</td><td class="left jonesad01 gray" data-stat="LF">Jones</td><td class="left troutmi01 white" data-stat="CF">Trout</td><td class="left cainlo01 gray" data-stat="RF">Cain</td><td class="left keuchda01 white" data-stat="P">Keuchel</td><td class="left cruzne02 white" data-stat="DH">Cruz</td></tr>
-<tr class="R" data-row="6"><th scope="row" class="left " data-stat="header">2014. Tue, Jul 15, 2014 vs N.L. W (5-3)</th><td class="left perezsa02 gray" data-stat="C">Perez</td><td class="left cabremi01 white" data-stat="1B">Cabrera</td><td class="left canoro01 white" data-stat="2B">Cano</td><td class="left donaljo02 white" data-stat="3B">Donaldson</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left troutmi01 white" data-stat="LF">Trout</td><td class="left jonesad01 gray" data-stat="CF">Jones</td><td class="left bautijo02 white" data-stat="RF">Bautista</td><td class="left hernafe02 gray" data-stat="P">Hernandez</td><td class="left cruzne02 white" data-stat="DH">Cruz</td></tr>
-<tr class="R" data-row="7"><th scope="row" class="left " data-stat="header">2013. Tue, Jul 16, 2013 at N.L. W (3-0)</th><td class="left mauerjo01 white" data-stat="C">Mauer</td><td class="left davisch02 gray" data-stat="1B">Davis</td><td class="left canoro01 white" data-stat="2B">Cano</td><td class="left cabremi01 gray" data-stat="3B">Cabrera</td><td class="left hardyjj01 white" data-stat="SS">Hardy</td><td class="left troutmi01 white" data-stat="LF">Trout</td><td class="left jonesad01 gray" data-stat="CF">Jones</td><td class="left bautijo02 white" data-stat="RF">Bautista</td><td class="left scherma01 white" data-stat="P">Scherzer</td><td class="left ortizda01 gray" data-stat="DH">Ortiz</td></tr>
-<tr class="R" data-row="8"><th scope="row" class="left " data-stat="header">2012. Tue, Jul 10, 2012 vs N.L. L (0-8)</th><td class="left napolmi01 gray" data-stat="C">Napoli</td><td class="left fieldpr01 white" data-stat="1B">Fielder</td><td class="left canoro01 white" data-stat="2B">Cano</td><td class="left beltrad01 white" data-stat="3B">Beltre</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left hamiljo03 gray" data-stat="LF">Hamilton</td><td class="left grandcu01 white" data-stat="CF">Granderson</td><td class="left bautijo02 white" data-stat="RF">Bautista</td><td class="left verlaju01 gray" data-stat="P">Verlander</td><td class="left ortizda01 gray" data-stat="DH">Ortiz</td></tr>
-<tr class="R" data-row="9"><th scope="row" class="left " data-stat="header">2011. Tue, Jul 12, 2011 at N.L. L (1-5)</th><td class="left avilaal01 white" data-stat="C">Avila</td><td class="left gonzaad01 gray" data-stat="1B">Gonzalez</td><td class="left canoro01 white" data-stat="2B">Cano</td><td class="left beltrad01 white" data-stat="3B">Beltre</td><td class="left cabreas01 white" data-stat="SS">Cabrera</td><td class="left hamiljo03 gray" data-stat="LF">Hamilton</td><td class="left grandcu01 white" data-stat="CF">Granderson</td><td class="left bautijo02 white" data-stat="RF">Bautista</td><td class="left weaveje02 white" data-stat="P">Weaver</td><td class="left ortizda01 gray" data-stat="DH">Ortiz</td></tr>
-<tr class="R" data-row="10"><th scope="row" class="left " data-stat="header">2010. Tue, Jul 13, 2010 vs N.L. L (1-3)</th><td class="left mauerjo01 gray" data-stat="C">Mauer</td><td class="left cabremi01 white" data-stat="1B">Cabrera</td><td class="left canoro01 white" data-stat="2B">Cano</td><td class="left longoev01 gray" data-stat="3B">Longoria</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left crawfca02 white" data-stat="LF">Crawford</td><td class="left hamiljo03 gray" data-stat="CF">Hamilton</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left priceda01 gray" data-stat="P">Price</td><td class="left guerrvl01 white" data-stat="DH">Guerrero</td></tr>
-<tr class="R" data-row="11"><th scope="row" class="left " data-stat="header">2009. Tue, Jul 14, 2009 at N.L. W (4-3)</th><td class="left mauerjo01 gray" data-stat="C">Mauer</td><td class="left teixema01 gray" data-stat="1B">Teixeira</td><td class="left hillaa01 gray" data-stat="2B">Hill</td><td class="left youngmi02 white" data-stat="3B">Young</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left bayja01 gray" data-stat="LF">Bay</td><td class="left hamiljo03 gray" data-stat="CF">Hamilton</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left hallaro01 white" data-stat="P">Halladay</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="12"><th scope="row" class="left " data-stat="header">2008. Tue, Jul 15, 2008 vs N.L. W (4-3)</th><td class="left mauerjo01 gray" data-stat="C">Mauer</td><td class="left youklke01 white" data-stat="1B">Youkilis</td><td class="left pedrodu01 white" data-stat="2B">Pedroia</td><td class="left rodrial01 gray" data-stat="3B">Rodriguez</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left ramirma02 white" data-stat="LF">Ramirez</td><td class="left hamiljo03 gray" data-stat="CF">Hamilton</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left leecl02 gray" data-stat="P">Lee</td><td class="left bradlmi01 white" data-stat="DH">Bradley</td></tr>
-<tr class="R" data-row="13"><th scope="row" class="left " data-stat="header">2007. Tue, Jul 10, 2007 at N.L. W (5-4)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left ortizda01 gray" data-stat="1B">Ortiz</td><td class="left polanpl01 gray" data-stat="2B">Polanco</td><td class="left rodrial01 gray" data-stat="3B">Rodriguez</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left ordonma01 gray" data-stat="LF">Ordonez</td><td class="left suzukic01 white" data-stat="CF">Suzuki</td><td class="left guerrvl01 white" data-stat="RF">Guerrero</td><td class="left harenda01 white" data-stat="P">Haren</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="14"><th scope="row" class="left " data-stat="header">2006. Tue, Jul 11, 2006 at N.L. W (3-2)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left ortizda01 gray" data-stat="1B">Ortiz</td><td class="left loretma01 white" data-stat="2B">Loretta</td><td class="left rodrial01 gray" data-stat="3B">Rodriguez</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left guerrvl01 white" data-stat="LF">Guerrero</td><td class="left wellsve01 gray" data-stat="CF">Wells</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left rogerke01 gray" data-stat="P">Rogers</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="15"><th scope="row" class="left " data-stat="header">2005. Tue, Jul 12, 2005 vs N.L. W (7-5)</th><td class="left varitja01 gray" data-stat="C">Varitek</td><td class="left teixema01 white" data-stat="1B">Teixeira</td><td class="left roberbr01 gray" data-stat="2B">Roberts</td><td class="left rodrial01 gray" data-stat="3B">Rodriguez</td><td class="left tejadmi01 white" data-stat="SS">Tejada</td><td class="left ramirma02 gray" data-stat="LF">Ramirez</td><td class="left damonjo01 white" data-stat="CF">Damon</td><td class="left guerrvl01 white" data-stat="RF">Guerrero</td><td class="left buehrma01 white" data-stat="P">Buehrle</td><td class="left ortizda01 white" data-stat="DH">Ortiz</td></tr>
-<tr class="R" data-row="16"><th scope="row" class="left " data-stat="header">2004. Tue, Jul 13, 2004 at N.L. W (9-4)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left giambja01 gray" data-stat="1B">Giambi</td><td class="left soriaal01 white" data-stat="2B">Soriano</td><td class="left rodrial01 gray" data-stat="3B">Rodriguez</td><td class="left jeterde01 gray" data-stat="SS">Jeter</td><td class="left ramirma02 gray" data-stat="LF">Ramirez</td><td class="left suzukic01 gray" data-stat="CF">Suzuki</td><td class="left guerrvl01 white" data-stat="RF">Guerrero</td><td class="left muldema01 gray" data-stat="P">Mulder</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="17"><th scope="row" class="left " data-stat="header">2003. Tue, Jul 15, 2003 vs N.L. W (7-6)</th><td class="left posadjo01 gray" data-stat="C">Posada</td><td class="left delgaca01 white" data-stat="1B">Delgado</td><td class="left soriaal01 white" data-stat="2B">Soriano</td><td class="left glaustr01 white" data-stat="3B">Glaus</td><td class="left rodrial01 white" data-stat="SS">Rodriguez</td><td class="left anderga01 white" data-stat="LF">Anderson</td><td class="left matsuhi01 white" data-stat="CF">Matsui</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left loaizes01 white" data-stat="P">Loaiza</td><td class="left martied01 white" data-stat="DH">Martinez</td></tr>
-<tr class="R" data-row="18"><th scope="row" class="left " data-stat="header">2002. Tue, Jul 9, 2002 at N.L. T (7-7)</th><td class="left posadjo01 gray" data-stat="C">Posada</td><td class="left giambja01 gray" data-stat="1B">Giambi</td><td class="left soriaal01 white" data-stat="2B">Soriano</td><td class="left hillesh02 gray" data-stat="3B">Hillenbrand</td><td class="left rodrial01 white" data-stat="SS">Rodriguez</td><td class="left ramirma02 gray" data-stat="LF">Ramirez</td><td class="left hunteto01 gray" data-stat="CF">Hunter</td><td class="left suzukic01 gray" data-stat="RF">Suzuki</td><td class="left lowede01 gray" data-stat="P">Lowe</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="19"><th scope="row" class="left " data-stat="header">2001. Tue, Jul 10, 2001 vs N.L. W (4-1)#</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left olerujo01 white" data-stat="1B">Olerud</td><td class="left boonebr01 gray" data-stat="2B">Boone</td><td class="left rodrial01 white" data-stat="3B">Rodriguez</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left ramirma02 gray" data-stat="LF">Ramirez</td><td class="left suzukic01 white" data-stat="CF">Suzuki</td><td class="left gonzaju03 white" data-stat="RF">Gonzalez</td><td class="left clemero02 white" data-stat="P">Clemens</td><td class="left martied01 white" data-stat="DH">Martinez</td></tr>
-<tr class="L" data-row="20"><th scope="row" class="left " data-stat="header">2000. Tue, Jul 11, 2000 at N.L. W (6-3)#</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left giambja01 gray" data-stat="1B">Giambi</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left frymatr01 gray" data-stat="3B">Fryman</td><td class="left jeterde01 white" data-stat="SS">Jeter</td><td class="left evereca01 white" data-stat="LF">Everett</td><td class="left willibe02 gray" data-stat="CF">Williams</td><td class="left dyeje01 gray" data-stat="RF">Dye</td><td class="left wellsda01 gray" data-stat="P">Wells</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="21"><th scope="row" class="left " data-stat="header">1999. Tue, Jul 13, 1999 vs N.L. W (4-1)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left thomeji01 white" data-stat="1B">Thome</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left ripkeca01 white" data-stat="3B">Ripken</td><td class="left garcino01 gray" data-stat="SS">Garciaparra</td><td class="left loftoke01 gray" data-stat="LF">Lofton</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left ramirma02 white" data-stat="RF">Ramirez</td><td class="left martipe02 white" data-stat="P">Martinez</td><td class="left palmera01 white" data-stat="DH">Palmeiro</td></tr>
-<tr class="R" data-row="22"><th scope="row" class="left " data-stat="header">1998. Tue, Jul 7, 1998 at N.L. W (13-8)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left thomeji01 white" data-stat="1B">Thome</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left ripkeca01 white" data-stat="3B">Ripken</td><td class="left rodrial01 white" data-stat="SS">Rodriguez</td><td class="left loftoke01 gray" data-stat="LF">Lofton</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left gonzaju03 gray" data-stat="RF">Gonzalez</td><td class="left wellsda01 gray" data-stat="P">Wells</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="23"><th scope="row" class="left " data-stat="header">1997. Tue, Jul 8, 1997 vs N.L. W (3-1)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left martiti02 gray" data-stat="1B">Martinez</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left ripkeca01 white" data-stat="3B">Ripken</td><td class="left rodrial01 white" data-stat="SS">Rodriguez</td><td class="left anderbr01 white" data-stat="LF">Anderson</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left o'neipa01 white" data-stat="RF">O'Neill</td><td class="left johnsra05 white" data-stat="P">Johnson</td><td class="left martied01 white" data-stat="DH">Martinez</td></tr>
-<tr class="R" data-row="24"><th scope="row" class="left " data-stat="header">1996. Tue, Jul 9, 1996 at N.L. L (0-6)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left vaughmo01 white" data-stat="1B">Vaughn</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left belleal01 gray" data-stat="LF">Belle</td><td class="left loftoke01 gray" data-stat="CF">Lofton</td><td class="left anderbr01 gray" data-stat="RF">Anderson</td><td class="left nagych01 gray" data-stat="P">Nagy</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="26"><th scope="row" class="left " data-stat="header">1995. Tue, Jul 11, 1995 vs N.L. L (2-3)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left thomafr04 gray" data-stat="1B">Thomas</td><td class="left baergca01 gray" data-stat="2B">Baerga</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left belleal01 gray" data-stat="LF">Belle</td><td class="left loftoke01 gray" data-stat="CF">Lofton</td><td class="left puckeki01 white" data-stat="RF">Puckett</td><td class="left johnsra05 white" data-stat="P">Johnson</td><td class="left martied01 white" data-stat="DH">Martinez</td></tr>
-<tr class="R" data-row="27"><th scope="row" class="left " data-stat="header">1994. Tue, Jul 12, 1994 at N.L. L (7-8)</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left thomafr04 gray" data-stat="1B">Thomas</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left cartejo01 white" data-stat="LF">Carter</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left puckeki01 white" data-stat="RF">Puckett</td><td class="left keyji01 gray" data-stat="P">Key</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="28"><th scope="row" class="left " data-stat="header">1993. Tue, Jul 13, 1993 vs N.L. W (9-3)#</th><td class="left rodriiv01 white" data-stat="C">Rodriguez</td><td class="left olerujo01 white" data-stat="1B">Olerud</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left puckeki01 gray" data-stat="LF">Puckett</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left cartejo01 gray" data-stat="RF">Carter</td><td class="left langsma01 white" data-stat="P">Langston</td><td class="left molitpa01 white" data-stat="DH">Molitor</td></tr>
-<tr class="L" data-row="29"><th scope="row" class="left " data-stat="header">1992. Tue, Jul 14, 1992 at N.L. W (13-6)#</th><td class="left alomasa02 gray" data-stat="C">Alomar</td><td class="left mcgwima01 gray" data-stat="1B">McGwire</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left puckeki01 gray" data-stat="LF">Puckett</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left cartejo01 gray" data-stat="RF">Carter</td><td class="left brownke01 gray" data-stat="P">Brown</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="30"><th scope="row" class="left " data-stat="header">1991. Tue, Jul 9, 1991 vs N.L. W (4-2)#</th><td class="left alomasa02 gray" data-stat="C">Alomar</td><td class="left fieldce01 white" data-stat="1B">Fielder</td><td class="left alomaro01 white" data-stat="2B">Alomar</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left henderi01 white" data-stat="LF">Henderson</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left hendeda01 white" data-stat="RF">Henderson</td><td class="left morrija02 white" data-stat="P">Morris</td><td class="left tartada01 white" data-stat="DH">Tartabull</td></tr>
-<tr class="R" data-row="31"><th scope="row" class="left " data-stat="header">1990. Tue, Jul 10, 1990 at N.L. W (2-0)</th><td class="left alomasa02 gray" data-stat="C">Alomar</td><td class="left mcgwima01 gray" data-stat="1B">McGwire</td><td class="left saxst01 gray" data-stat="2B">Sax</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left henderi01 white" data-stat="LF">Henderson</td><td class="left griffke02 white" data-stat="CF">Griffey</td><td class="left cansejo01 gray" data-stat="RF">Canseco</td><td class="left welchbo01 gray" data-stat="P">Welch</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="32"><th scope="row" class="left " data-stat="header">1989. Tue, Jul 11, 1989 vs N.L. W (5-3)</th><td class="left steinte01 white" data-stat="C">Steinbach</td><td class="left mcgwima01 gray" data-stat="1B">McGwire</td><td class="left francju01 white" data-stat="2B">Franco</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left jacksbo01 gray" data-stat="LF">Jackson</td><td class="left puckeki01 gray" data-stat="CF">Puckett</td><td class="left sierrru01 white" data-stat="RF">Sierra</td><td class="left stewada01 white" data-stat="P">Stewart</td><td class="left baineha01 white" data-stat="DH">Baines</td></tr>
-<tr class="R" data-row="33"><th scope="row" class="left " data-stat="header">1988. Tue, Jul 12, 1988 at N.L. W (2-1)</th><td class="left steinte01 white" data-stat="C">Steinbach</td><td class="left mcgwima01 gray" data-stat="1B">McGwire</td><td class="left molitpa01 gray" data-stat="2B">Molitor</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left cansejo01 white" data-stat="LF">Canseco</td><td class="left henderi01 white" data-stat="CF">Henderson</td><td class="left winfida01 gray" data-stat="RF">Winfield</td><td class="left violafr01 gray" data-stat="P">Viola</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="34"><th scope="row" class="left " data-stat="header">1987. Tue, Jul 14, 1987 vs N.L. L (0-2)</th><td class="left kennete02 gray" data-stat="C">Kennedy</td><td class="left mattido01 white" data-stat="1B">Mattingly</td><td class="left randowi01 white" data-stat="2B">Randolph</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left bellge02 gray" data-stat="LF">Bell</td><td class="left henderi01 white" data-stat="CF">Henderson</td><td class="left winfida01 gray" data-stat="RF">Winfield</td><td class="left saberbr01 white" data-stat="P">Saberhagen</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="35"><th scope="row" class="left " data-stat="header">1986. Tue, Jul 15, 1986 at N.L. W (3-2)</th><td class="left parrila02 white" data-stat="C">Parrish</td><td class="left joynewa01 gray" data-stat="1B">Joyner</td><td class="left whitalo01 gray" data-stat="2B">Whitaker</td><td class="left boggswa01 gray" data-stat="3B">Boggs</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left henderi01 white" data-stat="LF">Henderson</td><td class="left puckeki01 gray" data-stat="CF">Puckett</td><td class="left winfida01 gray" data-stat="RF">Winfield</td><td class="left clemero02 gray" data-stat="P">Clemens</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="36"><th scope="row" class="left " data-stat="header">1985. Tue, Jul 16, 1985 vs N.L. L (1-6)</th><td class="left fiskca01 gray" data-stat="C">Fisk</td><td class="left murraed02 white" data-stat="1B">Murray</td><td class="left whitalo01 gray" data-stat="2B">Whitaker</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left riceji01 gray" data-stat="LF">Rice</td><td class="left henderi01 white" data-stat="CF">Henderson</td><td class="left winfida01 gray" data-stat="RF">Winfield</td><td class="left morrija02 white" data-stat="P">Morris</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="37"><th scope="row" class="left " data-stat="header">1984. Tue, Jul 10, 1984 at N.L. L (1-3)</th><td class="left parrila02 white" data-stat="C">Parrish</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left whitalo01 gray" data-stat="2B">Whitaker</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left ripkeca01 gray" data-stat="SS">Ripken</td><td class="left winfida01 white" data-stat="LF">Winfield</td><td class="left lemonch01 gray" data-stat="CF">Lemon</td><td class="left jacksre01 white" data-stat="RF">Jackson</td><td class="left stiebda01 gray" data-stat="P">Stieb</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="38"><th scope="row" class="left " data-stat="header">1983. Wed, Jul 6, 1983 vs N.L. W (13-3)</th><td class="left simmote01 gray" data-stat="C">Simmons</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left trillma01 white" data-stat="2B">Trillo</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left yountro01 white" data-stat="SS">Yount</td><td class="left riceji01 gray" data-stat="LF">Rice</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left winfida01 gray" data-stat="RF">Winfield</td><td class="left stiebda01 gray" data-stat="P">Stieb</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="39"><th scope="row" class="left " data-stat="header">1982. Tue, Jul 13, 1982 at N.L. L (1-4)</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left coopece01 white" data-stat="1B">Cooper</td><td class="left grichbo01 gray" data-stat="2B">Grich</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left yountro01 white" data-stat="SS">Yount</td><td class="left henderi01 white" data-stat="LF">Henderson</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left jacksre01 white" data-stat="RF">Jackson</td><td class="left eckerde01 white" data-stat="P">Eckersley</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="40"><th scope="row" class="left " data-stat="header">1981. Sun, Aug 9, 1981 vs N.L. L (4-5)#</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left randowi01 white" data-stat="2B">Randolph</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left dentbu01 gray" data-stat="SS">Dent</td><td class="left singlke01 gray" data-stat="LF">Singleton</td><td class="left winfida01 gray" data-stat="CF">Winfield</td><td class="left jacksre01 white" data-stat="RF">Jackson</td><td class="left morrija02 gray" data-stat="P">Morris</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="41"><th scope="row" class="left " data-stat="header">1980. Tue, Jul 8, 1980 at N.L. L (2-4)</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left randowi01 white" data-stat="2B">Randolph</td><td class="left nettlgr01 gray" data-stat="3B">Nettles</td><td class="left dentbu01 gray" data-stat="SS">Dent</td><td class="left oglivbe01 white" data-stat="LF">Oglivie</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left jacksre01 white" data-stat="RF">Jackson</td><td class="left stonest01 white" data-stat="P">Stone</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="42"><th scope="row" class="left " data-stat="header">1979. Tue, Jul 17, 1979 vs N.L. L (6-7)#</th><td class="left porteda02 gray" data-stat="C">Porter</td><td class="left yastrca01 white" data-stat="1B">Yastrzemski</td><td class="left whitefr01 gray" data-stat="2B">White</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left smallro02 white" data-stat="SS">Smalley</td><td class="left baylodo01 gray" data-stat="LF">Baylor</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left riceji01 gray" data-stat="RF">Rice</td><td class="left ryanno01 gray" data-stat="P">Ryan</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="43"><th scope="row" class="left " data-stat="header">1978. Tue, Jul 11, 1978 at N.L. L (3-7)#</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left moneydo01 white" data-stat="2B">Money</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left patekfr01 gray" data-stat="SS">Patek</td><td class="left riceji01 white" data-stat="LF">Rice</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left ziskri01 white" data-stat="RF">Zisk</td><td class="left palmeji01 white" data-stat="P">Palmer</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="44"><th scope="row" class="left " data-stat="header">1977. Tue, Jul 19, 1977 vs N.L. L (5-7)</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left randowi01 gray" data-stat="2B">Randolph</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left burleri01 white" data-stat="SS">Burleson</td><td class="left ziskri01 gray" data-stat="LF">Zisk</td><td class="left yastrca01 gray" data-stat="CF">Yastrzemski</td><td class="left jacksre01 gray" data-stat="RF">Jackson</td><td class="left palmeji01 white" data-stat="P">Palmer</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="45"><th scope="row" class="left " data-stat="header">1976. Tue, Jul 13, 1976 at N.L. L (1-7)#</th><td class="left munsoth01 gray" data-stat="C">Munson</td><td class="left carewro01 gray" data-stat="1B">Carew</td><td class="left grichbo01 white" data-stat="2B">Grich</td><td class="left brettge01 white" data-stat="3B">Brett</td><td class="left harrato01 gray" data-stat="SS">Harrah</td><td class="left lefloro01 white" data-stat="LF">LeFlore</td><td class="left lynnfr01 white" data-stat="CF">Lynn</td><td class="left staubru01 white" data-stat="RF">Staub</td><td class="left fidryma01 gray" data-stat="P">Fidrych</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="46"><th scope="row" class="left " data-stat="header">1975. Tue, Jul 15, 1975 vs N.L. L (3-6)#</th><td class="left munsoth01 gray" data-stat="C">Munson</td><td class="left tenacge01 white" data-stat="1B">Tenace</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left nettlgr01 gray" data-stat="3B">Nettles</td><td class="left campabe01 white" data-stat="SS">Campaneris</td><td class="left rudijo01 gray" data-stat="LF">Rudi</td><td class="left bondsbo01 gray" data-stat="CF">Bonds</td><td class="left jacksre01 gray" data-stat="RF">Jackson</td><td class="left bluevi01 white" data-stat="P">Blue</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="47"><th scope="row" class="left " data-stat="header">1974. Tue, Jul 23, 1974 at N.L. L (2-7)</th><td class="left munsoth01 gray" data-stat="C">Munson</td><td class="left allendi01 gray" data-stat="1B">Allen</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left campabe01 white" data-stat="SS">Campaneris</td><td class="left burroje01 white" data-stat="LF">Burroughs</td><td class="left murcebo01 white" data-stat="CF">Murcer</td><td class="left jacksre01 gray" data-stat="RF">Jackson</td><td class="left perryga01 gray" data-stat="P">Perry</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="48"><th scope="row" class="left " data-stat="header">1973. Tue, Jul 24, 1973 vs N.L. L (1-7)</th><td class="left fiskca01 white" data-stat="C">Fisk</td><td class="left maybejo01 white" data-stat="1B">Mayberry</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left campabe01 white" data-stat="SS">Campaneris</td><td class="left murcebo01 gray" data-stat="LF">Murcer</td><td class="left otisam01 gray" data-stat="CF">Otis</td><td class="left jacksre01 gray" data-stat="RF">Jackson</td><td class="left hunteca01 white" data-stat="P">Hunter</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="49"><th scope="row" class="left " data-stat="header">1972. Tue, Jul 25, 1972 at N.L. L (3-4)</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left allendi01 gray" data-stat="1B">Allen</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left grichbo01 gray" data-stat="SS">Grich</td><td class="left yastrca01 white" data-stat="LF">Yastrzemski</td><td class="left murcebo01 white" data-stat="CF">Murcer</td><td class="left jacksre01 gray" data-stat="RF">Jackson</td><td class="left palmeji01 gray" data-stat="P">Palmer</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="50"><th scope="row" class="left " data-stat="header">1971. Tue, Jul 13, 1971 vs N.L. W (6-4)</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left cashno01 white" data-stat="1B">Cash</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left aparilu01 white" data-stat="SS">Aparicio</td><td class="left yastrca01 white" data-stat="LF">Yastrzemski</td><td class="left murcebo01 white" data-stat="CF">Murcer</td><td class="left robinfr02 white" data-stat="RF">Robinson</td><td class="left bluevi01 white" data-stat="P">Blue</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="52"><th scope="row" class="left " data-stat="header">1970. Tue, Jul 14, 1970 at N.L. L (4-5)</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left powelbo01 gray" data-stat="1B">Powell</td><td class="left johnsda02 white" data-stat="2B">Johnson</td><td class="left killeha01 gray" data-stat="3B">Killebrew</td><td class="left aparilu01 white" data-stat="SS">Aparicio</td><td class="left howarfr01 gray" data-stat="LF">Howard</td><td class="left yastrca01 gray" data-stat="CF">Yastrzemski</td><td class="left robinfr02 white" data-stat="RF">Robinson</td><td class="left palmeji01 gray" data-stat="P">Palmer</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="53"><th scope="row" class="left " data-stat="header">1969. Wed, Jul 23, 1969 vs N.L. L (3-9)#</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left powelbo01 gray" data-stat="1B">Powell</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left bandosa01 white" data-stat="3B">Bando</td><td class="left petrori01 gray" data-stat="SS">Petrocelli</td><td class="left howarfr01 gray" data-stat="LF">Howard</td><td class="left jacksre01 white" data-stat="CF">Jackson</td><td class="left robinfr02 white" data-stat="RF">Robinson</td><td class="left stottme01 white" data-stat="P">Stottlemyre</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="54"><th scope="row" class="left " data-stat="header">1968. Tue, Jul 9, 1968 at N.L. L (0-1)</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left killeha01 white" data-stat="1B">Killebrew</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 gray" data-stat="3B">Robinson</td><td class="left fregoji01 white" data-stat="SS">Fregosi</td><td class="left hortowi01 white" data-stat="LF">Horton</td><td class="left yastrca01 gray" data-stat="CF">Yastrzemski</td><td class="left howarfr01 gray" data-stat="RF">Howard</td><td class="left tiantlu01 gray" data-stat="P">Tiant</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="55"><th scope="row" class="left " data-stat="header">1967. Tue, Jul 11, 1967 vs N.L. L (1-2)</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left killeha01 white" data-stat="1B">Killebrew</td><td class="left carewro01 gray" data-stat="2B">Carew</td><td class="left robinbr01 gray" data-stat="3B">Robinson</td><td class="left petrori01 gray" data-stat="SS">Petrocelli</td><td class="left yastrca01 gray" data-stat="LF">Yastrzemski</td><td class="left olivato01 white" data-stat="CF">Oliva</td><td class="left conigto01 white" data-stat="RF">Conigliaro</td><td class="left chancde01 white" data-stat="P">Chance</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="56"><th scope="row" class="left " data-stat="header">1966. Tue, Jul 12, 1966 at N.L. L (1-2)#</th><td class="left freehbi01 gray" data-stat="C">Freehan</td><td class="left scottge02 gray" data-stat="1B">Scott</td><td class="left knoopbo01 white" data-stat="2B">Knoop</td><td class="left robinbr01 gray" data-stat="3B">Robinson</td><td class="left mcauldi01 white" data-stat="SS">McAuliffe</td><td class="left robinfr02 white" data-stat="LF">Robinson</td><td class="left kalinal01 gray" data-stat="CF">Kaline</td><td class="left olivato01 gray" data-stat="RF">Oliva</td><td class="left mclaide01 gray" data-stat="P">McLain</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="57"><th scope="row" class="left " data-stat="header">1965. Tue, Jul 13, 1965 vs N.L. L (5-6)</th><td class="left batteea01 white" data-stat="C">Battey</td><td class="left killeha01 white" data-stat="1B">Killebrew</td><td class="left mantife01 gray" data-stat="2B">Mantilla</td><td class="left robinbr01 gray" data-stat="3B">Robinson</td><td class="left mcauldi01 white" data-stat="SS">McAuliffe</td><td class="left hortowi01 gray" data-stat="LF">Horton</td><td class="left davalvi01 white" data-stat="CF">Davalillo</td><td class="left colavro01 white" data-stat="RF">Colavito</td><td class="left pappami01 white" data-stat="P">Pappas</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="58"><th scope="row" class="left " data-stat="header">1964. Tue, Jul 7, 1964 at N.L. L (4-7)</th><td class="left howarel01 gray" data-stat="C">Howard</td><td class="left allisbo01 gray" data-stat="1B">Allison</td><td class="left richabo01 white" data-stat="2B">Richardson</td><td class="left robinbr01 gray" data-stat="3B">Robinson</td><td class="left fregoji01 gray" data-stat="SS">Fregosi</td><td class="left killeha01 white" data-stat="LF">Killebrew</td><td class="left mantlmi01 gray" data-stat="CF">Mantle</td><td class="left olivato01 gray" data-stat="RF">Oliva</td><td class="left chancde01 gray" data-stat="P">Chance</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="59"><th scope="row" class="left " data-stat="header">1963. Tue, Jul 9, 1963 vs N.L. L (3-5)#</th><td class="left batteea01 white" data-stat="C">Battey</td><td class="left pepitjo01 white" data-stat="1B">Pepitone</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left malzofr01 white" data-stat="3B">Malzone</td><td class="left versazo01 white" data-stat="SS">Versalles</td><td class="left wagnele01 gray" data-stat="LF">Wagner</td><td class="left pearsal02 white" data-stat="CF">Pearson</td><td class="left kalinal01 white" data-stat="RF">Kaline</td><td class="left mcbrike01 white" data-stat="P">McBride</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="60"><th scope="row" class="left " data-stat="header">1962. Mon, Jul 30, 1962 at N.L. W (9-4)#</th><td class="left batteea01 white" data-stat="C">Battey</td><td class="left gentiji01 gray" data-stat="1B">Gentile</td><td class="left moranbi02 white" data-stat="2B">Moran</td><td class="left rolliri01 gray" data-stat="3B">Rollins</td><td class="left aparilu01 gray" data-stat="SS">Aparicio</td><td class="left wagnele01 gray" data-stat="LF">Wagner</td><td class="left marisro01 gray" data-stat="CF">Maris</td><td class="left colavro01 gray" data-stat="RF">Colavito</td><td class="left stenhda01 gray" data-stat="P">Stenhouse</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="61"><th scope="row" class="left " data-stat="header">1962. Tue, Jul 10, 1962 vs N.L. L (1-3)</th><td class="left batteea01 white" data-stat="C">Battey</td><td class="left gentiji01 gray" data-stat="1B">Gentile</td><td class="left moranbi02 white" data-stat="2B">Moran</td><td class="left rolliri01 gray" data-stat="3B">Rollins</td><td class="left aparilu01 gray" data-stat="SS">Aparicio</td><td class="left wagnele01 gray" data-stat="LF">Wagner</td><td class="left marisro01 gray" data-stat="CF">Maris</td><td class="left mantlmi01 white" data-stat="RF">Mantle</td><td class="left bunniji01 white" data-stat="P">Bunning</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="62"><th scope="row" class="left " data-stat="header">1961. Mon, Jul 31, 1961 vs N.L. T (1-1)</th><td class="left romanjo01 gray" data-stat="C">Romano</td><td class="left cashno01 white" data-stat="1B">Cash</td><td class="left templjo01 gray" data-stat="2B">Temple</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left aparilu01 gray" data-stat="SS">Aparicio</td><td class="left colavro01 white" data-stat="LF">Colavito</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left kalinal01 gray" data-stat="RF">Kaline</td><td class="left bunniji01 white" data-stat="P">Bunning</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="63"><th scope="row" class="left " data-stat="header">1961. Tue, Jul 11, 1961 at N.L. L (4-5)#</th><td class="left romanjo01 gray" data-stat="C">Romano</td><td class="left cashno01 white" data-stat="1B">Cash</td><td class="left templjo01 gray" data-stat="2B">Temple</td><td class="left robinbr01 white" data-stat="3B">Robinson</td><td class="left kubekto01 white" data-stat="SS">Kubek</td><td class="left colavro01 white" data-stat="LF">Colavito</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left marisro01 white" data-stat="RF">Maris</td><td class="left fordwh01 gray" data-stat="P">Ford</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="64"><th scope="row" class="left " data-stat="header">1960. Wed, Jul 13, 1960 vs N.L. L (0-6)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left skowrbi01 gray" data-stat="1B">Skowron</td><td class="left runnepe01 white" data-stat="2B">Runnels</td><td class="left malzofr01 gray" data-stat="3B">Malzone</td><td class="left hansero02 gray" data-stat="SS">Hansen</td><td class="left minosmi01 gray" data-stat="LF">Minoso</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left marisro01 white" data-stat="RF">Maris</td><td class="left fordwh01 gray" data-stat="P">Ford</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="65"><th scope="row" class="left " data-stat="header">1960. Mon, Jul 11, 1960 vs N.L. L (3-5)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left skowrbi01 gray" data-stat="1B">Skowron</td><td class="left runnepe01 white" data-stat="2B">Runnels</td><td class="left malzofr01 gray" data-stat="3B">Malzone</td><td class="left hansero02 gray" data-stat="SS">Hansen</td><td class="left minosmi01 gray" data-stat="LF">Minoso</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left marisro01 white" data-stat="RF">Maris</td><td class="left monbobi01 white" data-stat="P">Monbouquette</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="66"><th scope="row" class="left " data-stat="header">1959. Mon, Aug 3, 1959 at N.L. W (5-3)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left runnepe01 white" data-stat="1B">Runnels</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left malzofr01 gray" data-stat="3B">Malzone</td><td class="left aparilu01 white" data-stat="SS">Aparicio</td><td class="left willite01 white" data-stat="LF">Williams</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left marisro01 white" data-stat="RF">Maris</td><td class="left walkeje01 gray" data-stat="P">Walker</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="67"><th scope="row" class="left " data-stat="header">1959. Tue, Jul 7, 1959 at N.L. L (4-5)</th><td class="left triangu01 gray" data-stat="C">Triandos</td><td class="left skowrbi01 gray" data-stat="1B">Skowron</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left killeha01 white" data-stat="3B">Killebrew</td><td class="left aparilu01 white" data-stat="SS">Aparicio</td><td class="left minosmi01 gray" data-stat="LF">Minoso</td><td class="left kalinal01 gray" data-stat="CF">Kaline</td><td class="left colavro01 gray" data-stat="RF">Colavito</td><td class="left wynnea01 white" data-stat="P">Wynn</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="68"><th scope="row" class="left " data-stat="header">1958. Tue, Jul 8, 1958 vs N.L. W (4-3)#</th><td class="left triangu01 gray" data-stat="C">Triandos</td><td class="left skowrbi01 gray" data-stat="1B">Skowron</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left malzofr01 gray" data-stat="3B">Malzone</td><td class="left aparilu01 white" data-stat="SS">Aparicio</td><td class="left cervbo01 white" data-stat="LF">Cerv</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left jenseja01 white" data-stat="RF">Jensen</td><td class="left turlebo01 gray" data-stat="P">Turley</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="69"><th scope="row" class="left " data-stat="header">1957. Tue, Jul 9, 1957 at N.L. W (6-5)#</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left wertzvi01 white" data-stat="1B">Wertz</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left kuennha01 gray" data-stat="SS">Kuenn</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left kalinal01 gray" data-stat="RF">Kaline</td><td class="left bunniji01 white" data-stat="P">Bunning</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="70"><th scope="row" class="left " data-stat="header">1956. Tue, Jul 10, 1956 vs N.L. L (3-7)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left vernomi01 gray" data-stat="1B">Vernon</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left kuennha01 gray" data-stat="SS">Kuenn</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left kalinal01 gray" data-stat="RF">Kaline</td><td class="left piercbi02 gray" data-stat="P">Pierce</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="71"><th scope="row" class="left " data-stat="header">1955. Tue, Jul 12, 1955 at N.L. L (5-6)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left vernomi01 gray" data-stat="1B">Vernon</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left finigji01 gray" data-stat="3B">Finigan</td><td class="left kuennha01 gray" data-stat="SS">Kuenn</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left kalinal01 gray" data-stat="RF">Kaline</td><td class="left piercbi02 gray" data-stat="P">Pierce</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="72"><th scope="row" class="left " data-stat="header">1954. Tue, Jul 13, 1954 vs N.L. W (11-9)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left rosenal01 white" data-stat="1B">Rosen</td><td class="left avilabo01 white" data-stat="2B">Avila</td><td class="left boonera01 white" data-stat="3B">Boone</td><td class="left carrach01 white" data-stat="SS">Carrasquel</td><td class="left minosmi01 white" data-stat="LF">Minoso</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left bauerha01 white" data-stat="RF">Bauer</td><td class="left fordwh01 white" data-stat="P">Ford</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="73"><th scope="row" class="left " data-stat="header">1953. Tue, Jul 14, 1953 at N.L. L (1-5)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left vernomi01 gray" data-stat="1B">Vernon</td><td class="left goodmbi01 gray" data-stat="2B">Goodman</td><td class="left rosenal01 gray" data-stat="3B">Rosen</td><td class="left carrach01 white" data-stat="SS">Carrasquel</td><td class="left zernigu01 gray" data-stat="LF">Zernial</td><td class="left mantlmi01 white" data-stat="CF">Mantle</td><td class="left bauerha01 white" data-stat="RF">Bauer</td><td class="left piercbi02 gray" data-stat="P">Pierce</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="74"><th scope="row" class="left " data-stat="header">1952. Tue, Jul 8, 1952 at N.L. L (2-3)#</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left robined01 white" data-stat="1B">Robinson</td><td class="left avilabo01 white" data-stat="2B">Avila</td><td class="left rosenal01 gray" data-stat="3B">Rosen</td><td class="left rizzuph01 gray" data-stat="SS">Rizzuto</td><td class="left mitchda01 white" data-stat="LF">Mitchell</td><td class="left dimagdo01 gray" data-stat="CF">DiMaggio</td><td class="left bauerha01 white" data-stat="RF">Bauer</td><td class="left raschvi01 white" data-stat="P">Raschi</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="75"><th scope="row" class="left " data-stat="header">1951. Tue, Jul 10, 1951 vs N.L. L (3-8)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left fainfe01 gray" data-stat="1B">Fain</td><td class="left foxne01 gray" data-stat="2B">Fox</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left carrach01 white" data-stat="SS">Carrasquel</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left dimagdo01 gray" data-stat="CF">DiMaggio</td><td class="left wertzvi01 gray" data-stat="RF">Wertz</td><td class="left garvene01 gray" data-stat="P">Garver</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="76"><th scope="row" class="left " data-stat="header">1950. Tue, Jul 11, 1950 vs N.L. L (3-4)</th><td class="left berrayo01 white" data-stat="C">Berra</td><td class="left dropowa01 white" data-stat="1B">Dropo</td><td class="left doerrbo01 white" data-stat="2B">Doerr</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left rizzuph01 gray" data-stat="SS">Rizzuto</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left dobyla01 white" data-stat="CF">Doby</td><td class="left eversho01 white" data-stat="RF">Evers</td><td class="left raschvi01 white" data-stat="P">Raschi</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="78"><th scope="row" class="left " data-stat="header">1949. Tue, Jul 12, 1949 at N.L. W (11-7)#</th><td class="left tebbebi01 gray" data-stat="C">Tebbetts</td><td class="left robined01 gray" data-stat="1B">Robinson</td><td class="left michaca01 gray" data-stat="2B">Michaels</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left joosted01 white" data-stat="SS">Joost</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left dimagdo01 gray" data-stat="RF">DiMaggio</td><td class="left parneme01 gray" data-stat="P">Parnell</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="79"><th scope="row" class="left " data-stat="header">1948. Tue, Jul 13, 1948 vs N.L. W (5-2)</th><td class="left rosarbu01 white" data-stat="C">Rosar</td><td class="left mcquige02 white" data-stat="1B">McQuinn</td><td class="left gordojo01 white" data-stat="2B">Gordon</td><td class="left keltnke01 gray" data-stat="3B">Keltner</td><td class="left boudrlo01 gray" data-stat="SS">Boudreau</td><td class="left henrito01 white" data-stat="LF">Henrich</td><td class="left eversho01 white" data-stat="CF">Evers</td><td class="left mullipa01 white" data-stat="RF">Mullin</td><td class="left mastewa02 white" data-stat="P">Masterson</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="80"><th scope="row" class="left " data-stat="header">1947. Tue, Jul 8, 1947 at N.L. W (2-1)</th><td class="left rosarbu01 white" data-stat="C">Rosar</td><td class="left mcquige02 white" data-stat="1B">McQuinn</td><td class="left gordojo01 white" data-stat="2B">Gordon</td><td class="left kellge01 white" data-stat="3B">Kell</td><td class="left boudrlo01 gray" data-stat="SS">Boudreau</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left lewisbu01 gray" data-stat="RF">Lewis</td><td class="left newhoha01 gray" data-stat="P">Newhouser</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="81"><th scope="row" class="left " data-stat="header">1946. Tue, Jul 9, 1946 vs N.L. W (12-0)</th><td class="left hayesfr01 gray" data-stat="C">Hayes</td><td class="left vernomi01 gray" data-stat="1B">Vernon</td><td class="left doerrbo01 gray" data-stat="2B">Doerr</td><td class="left keltnke01 gray" data-stat="3B">Keltner</td><td class="left peskyjo01 white" data-stat="SS">Pesky</td><td class="left willite01 gray" data-stat="LF">Williams</td><td class="left dimagdo01 white" data-stat="CF">DiMaggio</td><td class="left kellech01 white" data-stat="RF">Keller</td><td class="left fellebo01 white" data-stat="P">Feller</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="82"><th scope="row" class="left " data-stat="header">1944. Tue, Jul 11, 1944 at N.L. L (1-7)</th><td class="left hemslro01 white" data-stat="C">Hemsley</td><td class="left mcquige02 white" data-stat="1B">McQuinn</td><td class="left doerrbo01 gray" data-stat="2B">Doerr</td><td class="left keltnke01 gray" data-stat="3B">Keltner</td><td class="left stephve01 gray" data-stat="SS">Stephens</td><td class="left johnsbo01 white" data-stat="LF">Johnson</td><td class="left tucketh01 gray" data-stat="CF">Tucker</td><td class="left spencst01 gray" data-stat="RF">Spence</td><td class="left borowha01 gray" data-stat="P">Borowy</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="83"><th scope="row" class="left " data-stat="header">1943. Tue, Jul 13, 1943 vs N.L. W (5-3)</th><td class="left earlyja01 gray" data-stat="C">Early</td><td class="left siebedi01 gray" data-stat="1B">Siebert</td><td class="left doerrbo01 gray" data-stat="2B">Doerr</td><td class="left keltnke01 gray" data-stat="3B">Keltner</td><td class="left stephve01 gray" data-stat="SS">Stephens</td><td class="left wakefdi01 gray" data-stat="LF">Wakefield</td><td class="left laabsch01 white" data-stat="CF">Laabs</td><td class="left casege01 white" data-stat="RF">Case</td><td class="left leonadu02 white" data-stat="P">Leonard</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="84"><th scope="row" class="left " data-stat="header">1942. Mon, Jul 6, 1942 at N.L. W (3-1)</th><td class="left tebbebi01 white" data-stat="C">Tebbetts</td><td class="left yorkru01 white" data-stat="1B">York</td><td class="left gordojo01 white" data-stat="2B">Gordon</td><td class="left keltnke01 gray" data-stat="3B">Keltner</td><td class="left boudrlo01 white" data-stat="SS">Boudreau</td><td class="left willite01 white" data-stat="LF">Williams</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left henrito01 gray" data-stat="RF">Henrich</td><td class="left chandsp01 gray" data-stat="P">Chandler</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="85"><th scope="row" class="left " data-stat="header">1941. Tue, Jul 8, 1941 vs N.L. W (7-5)</th><td class="left dickebi01 gray" data-stat="C">Dickey</td><td class="left yorkru01 white" data-stat="1B">York</td><td class="left doerrbo01 gray" data-stat="2B">Doerr</td><td class="left travice01 white" data-stat="3B">Travis</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left willite01 white" data-stat="LF">Williams</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left heathje01 white" data-stat="RF">Heath</td><td class="left fellebo01 white" data-stat="P">Feller</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="86"><th scope="row" class="left " data-stat="header">1940. Tue, Jul 9, 1940 at N.L. L (0-4)</th><td class="left dickebi01 gray" data-stat="C">Dickey</td><td class="left foxxji01 gray" data-stat="1B">Foxx</td><td class="left gordojo01 white" data-stat="2B">Gordon</td><td class="left travice01 white" data-stat="3B">Travis</td><td class="left applilu01 white" data-stat="SS">Appling</td><td class="left willite01 white" data-stat="LF">Williams</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left kellech01 gray" data-stat="RF">Keller</td><td class="left ruffire01 gray" data-stat="P">Ruffing</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="87"><th scope="row" class="left " data-stat="header">1939. Tue, Jul 11, 1939 vs N.L. W (3-1)</th><td class="left dickebi01 gray" data-stat="C">Dickey</td><td class="left greenha01 white" data-stat="1B">Greenberg</td><td class="left gordojo01 white" data-stat="2B">Gordon</td><td class="left rolfere01 gray" data-stat="3B">Rolfe</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left selkige01 gray" data-stat="LF">Selkirk</td><td class="left dimagjo01 gray" data-stat="CF">DiMaggio</td><td class="left cramedo01 white" data-stat="RF">Cramer</td><td class="left ruffire01 gray" data-stat="P">Ruffing</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="88"><th scope="row" class="left " data-stat="header">1938. Wed, Jul 6, 1938 at N.L. L (1-4)#</th><td class="left dickebi01 gray" data-stat="C">Dickey</td><td class="left foxxji01 gray" data-stat="1B">Foxx</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left lewisbu01 white" data-stat="3B">Lewis</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left kreevmi01 white" data-stat="LF">Kreevich</td><td class="left averiea01 white" data-stat="CF">Averill</td><td class="left dimagjo01 gray" data-stat="RF">DiMaggio</td><td class="left gomezle01 white" data-stat="P">Gomez</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="89"><th scope="row" class="left " data-stat="header">1937. Wed, Jul 7, 1937 vs N.L. W (8-3)</th><td class="left dickebi01 gray" data-stat="C">Dickey</td><td class="left gehrilo01 white" data-stat="1B">Gehrig</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left rolfere01 gray" data-stat="3B">Rolfe</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left westsa01 gray" data-stat="LF">West</td><td class="left averiea01 white" data-stat="CF">Averill</td><td class="left dimagjo01 gray" data-stat="RF">DiMaggio</td><td class="left gomezle01 white" data-stat="P">Gomez</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="R" data-row="90"><th scope="row" class="left " data-stat="header">1936. Tue, Jul 7, 1936 at N.L. L (3-4)</th><td class="left ferreri01 white" data-stat="C">Ferrell</td><td class="left gehrilo01 white" data-stat="1B">Gehrig</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left higgipi01 white" data-stat="3B">Higgins</td><td class="left applilu01 white" data-stat="SS">Appling</td><td class="left radclri01 white" data-stat="LF">Radcliff</td><td class="left averiea01 white" data-stat="CF">Averill</td><td class="left dimagjo01 gray" data-stat="RF">DiMaggio</td><td class="left grovele01 gray" data-stat="P">Grove</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="91"><th scope="row" class="left " data-stat="header">1935. Mon, Jul 8, 1935 vs N.L. W (4-1)#</th><td class="left hemslro01 gray" data-stat="C">Hemsley</td><td class="left gehrilo01 white" data-stat="1B">Gehrig</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left foxxji01 gray" data-stat="3B">Foxx</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left johnsbo01 gray" data-stat="LF">Johnson</td><td class="left simmoal01 gray" data-stat="CF">Simmons</td><td class="left vosmijo01 white" data-stat="RF">Vosmik</td><td class="left gomezle01 white" data-stat="P">Gomez</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="92"><th scope="row" class="left " data-stat="header">1934. Tue, Jul 10, 1934 at N.L. W (9-7)#</th><td class="left dickebi01 white" data-stat="C">Dickey</td><td class="left gehrilo01 white" data-stat="1B">Gehrig</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left foxxji01 gray" data-stat="3B">Foxx</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left manushe01 white" data-stat="LF">Manush</td><td class="left simmoal01 gray" data-stat="CF">Simmons</td><td class="left ruthba01 gray" data-stat="RF">Ruth</td><td class="left gomezle01 white" data-stat="P">Gomez</td><td class="left gray iz" data-stat="DH"></td></tr>
-<tr class="L" data-row="93"><th scope="row" class="left " data-stat="header">1933. Thu, Jul 6, 1933 vs N.L. W (4-2)#</th><td class="left ferreri01 gray" data-stat="C">Ferrell</td><td class="left gehrilo01 white" data-stat="1B">Gehrig</td><td class="left gehrich01 gray" data-stat="2B">Gehringer</td><td class="left dykesji01 white" data-stat="3B">Dykes</td><td class="left cronijo01 gray" data-stat="SS">Cronin</td><td class="left chapmbe01 gray" data-stat="LF">Chapman</td><td class="left simmoal01 gray" data-stat="CF">Simmons</td><td class="left ruthba01 gray" data-stat="RF">Ruth</td><td class="left gomezle01 white" data-stat="P">Gomez</td><td class="left gray iz" data-stat="DH"></td></tr>
-</tbody><tfoot><tr data-row="94"><th scope="row" class="left " data-stat="header">91&nbsp;Games</th><td class="left " data-stat="C">29&nbsp;Players</td><td class="left " data-stat="1B">52&nbsp;Players</td><td class="left " data-stat="2B">37&nbsp;Players</td><td class="left " data-stat="3B">33&nbsp;Players</td><td class="left " data-stat="SS">36&nbsp;Players</td><td class="left " data-stat="LF">55&nbsp;Players</td><td class="left " data-stat="CF">38&nbsp;Players</td><td class="left " data-stat="RF">46&nbsp;Players</td><td class="left " data-stat="P">64&nbsp;Players</td><td class="left " data-stat="DH">11&nbsp;Players</td></tr>
-<tr data-row="95"><th scope="row" class="left " data-stat="header">Most-Games</th><td class="left " data-stat="C"> Rodriguez-12 Berra-11 Freehan-7 Fisk-7 Dickey-6 Perez-6 Mauer-4 Battey-4 Alomar-3 Munson-3 </td><td class="left " data-stat="1B"> Carew-7 Gehrig-5 Vernon-4 McGwire-4 Skowron-4 McQuinn-3 Cash-3 Killebrew-3 Giambi-3 Cabrera-2 </td><td class="left " data-stat="2B"> Alomar-9 Carew-8 Fox-8 Gehringer-6 Gordon-5 Doerr-5 Cano-5 Altuve-4 Randolph-4 Soriano-3 </td><td class="left " data-stat="3B"> Robinson-11 Boggs-11 Brett-9 Rodriguez-6 Kell-6 Malzone-5 Keltner-5 Ripken-3 Donaldson-2 Ramirez-2 </td><td class="left " data-stat="SS"> Ripken-14 Jeter-9 Aparicio-8 Cronin-7 Rodriguez-4 Kuenn-3 Carrasquel-3 Boudreau-3 Campaneris-3 Appling-2 </td><td class="left " data-stat="LF"> Williams-12 Ramirez-5 Minoso-4 Henderson-4 Rice-3 Yastrzemski-3 Wagner-3 Colavito-2 Horton-2 Hamilton-2 </td><td class="left " data-stat="CF"> Mantle-12 Griffey-8 DiMaggio-6 Lynn-6 Trout-4 Simmons-3 Hamilton-3 Murcer-3 DiMaggio-3 Averill-3 </td><td class="left " data-stat="RF"> Jackson-9 Suzuki-6 Kaline-5 Winfield-5 Maris-4 Bautista-4 Colavito-3 Robinson-3 DiMaggio-3 Bauer-3 </td><td class="left " data-stat="P"> Gomez-5 Palmer-4 Ford-3 Bunning-3 Sale-3 Pierce-3 Morris-3 Wells-2 Clemens-2 Feller-2 </td><td class="left " data-stat="DH"> Ortiz-5 Martinez-4 Cruz-2 Martinez-2 Dickerson-1 Molitor-1 Guerrero-1 Bradley-1 Palmeiro-1 Baines-1 </td></tr>
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
 
-   </tfoot>
+<head>
+<meta name="Excel Workbook Frameset">
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="all-star_files/filelist.xml">
+<![if !supportTabStrip]>
+<link id="shLink" href="all-star_files/sheet001.htm">
 
-</table></body></html>
+<link id="shLink">
+
+<script language="JavaScript">
+<!--
+ var c_lTabs=1;
+
+ var c_rgszSh=new Array(c_lTabs);
+ c_rgszSh[0] = "Worksheet";
+
+
+
+ var c_rgszClr=new Array(8);
+ c_rgszClr[0]="window";
+ c_rgszClr[1]="buttonface";
+ c_rgszClr[2]="windowframe";
+ c_rgszClr[3]="windowtext";
+ c_rgszClr[4]="threedlightshadow";
+ c_rgszClr[5]="threedhighlight";
+ c_rgszClr[6]="threeddarkshadow";
+ c_rgszClr[7]="threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=new Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=window.navigator.userAgent
+ var msie=ua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=="Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML="<frameset rows=\"*,18\" border=0 width=0 frameborder=no framespacing=0>"+
+  "<frame src=\""+document.all.item("shLink")[0].href+"\" name=\"frSheet\" noresize>"+
+  "<frameset cols=\"54,*\" border=0 width=0 frameborder=no framespacing=0>"+
+  "<frame src=\"\" name=\"frScroll\" marginwidth=0 marginheight=0 scrolling=no>"+
+  "<frame src=\"\" name=\"frTabs\" marginwidth=0 marginheight=0 scrolling=no>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-height:11pt;}</style></head>"+
+  "<body onclick=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" onselectstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+" topmargin=0 leftmargin=0><table cellpadding=0 cellspacing=0 width=100%>"+
+  "<tr><td colspan=6 height=1 bgcolor="+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=\"font:1pt\">&nbsp;<td>"+
+  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(0);\" onmouseout=\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(0);\" ondblclick=\"parent.fnScrollTabs(0);\" onmouseover=\"parent.fnMouseOverScroll(1);\" onmouseout=\"parent.fnMouseOutScroll(1);\"><a>&lt</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll2\" onclick=\"parent.fnScrollTabs(1);\" ondblclick=\"parent.fnScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(2);\" onmouseout=\"parent.fnMouseOutScroll(2);\"><a>&gt</a></td>"+
+  "<td valign=top id=tdScroll class=\"clScroll\" onclick=\"parent.fnFastScrollTabs(1);\" onmouseover=\"parent.fnMouseOverScroll(3);\" onmouseout=\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgszClr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-left:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=\"parent.fnInit();\" onselectstart=\"event.returnValue=false;\" ondragstart=\"event.returnValue=false;\" bgcolor="+c_rgszClr[4]+
+  " topmargin=0 leftmargin=0><table id=tbTabs cellpadding=0 cellspacing=0>";
+
+ var iCellCount=(c_lTabs+1)*2;
+
+ var i;
+ for (i=0;i<iCellCount;i+=2)
+  szHTML+="<col width=1><col>";
+
+ var iRow;
+ for (iRow=0;iRow<6;iRow++) {
+
+  szHTML+="<tr>";
+
+  if (iRow==5)
+   szHTML+="<td colspan="+iCellCount+"></td>";
+  else {
+   if (iRow==0) {
+    for(i=0;i<iCellCount;i++)
+     szHTML+="<td height=1 class=\"clBorder\"></td>";
+   } else if (iRow==1) {
+    for(i=0;i<c_lTabs;i++) {
+     szHTML+="<td height=1 nowrap class=\"clBorder\">&nbsp;</td>";
+     szHTML+=
+      "<td id=tdTab height=1 nowrap class=\"clTab\" onmouseover=\"parent.fnMouseOverTab("+i+");\" onmouseout=\"parent.fnMouseOutTab("+i+");\">"+
+      "<a href=\""+document.all.item("shLink")[i].href+"\" target=\"frSheet\" id=aTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+="<td id=tdTab height=1 nowrap class=\"clBorder\"><a id=aTab>&nbsp;</a></td><td width=100%></td>";
+   } else if (iRow==2) {
+    for (i=0;i<c_lTabs;i++)
+     szHTML+="<td height=1></td><td height=1 class=\"clBorder\"></td>";
+    szHTML+="<td height=1></td><td height=1></td>";
+   } else if (iRow==3) {
+    for (i=0;i<iCellCount;i++)
+     szHTML+="<td height=1></td>";
+   } else if (iRow==4) {
+    for (i=0;i<c_lTabs;i++)
+     szHTML+="<td height=1 width=1></td><td height=1></td>";
+    szHTML+="<td height=1 width=1></td><td></td>";
+   }
+  }
+  szHTML+="</tr>";
+ }
+
+ szHTML+="</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=document.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=0;
+ var i;
+ for (i=1;i<=c_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=offsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir==0) {
+   if (scrollLeft>0) {
+    for (i=0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=i-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=0;i<c_lTabs&&g_rglTabX[i]<=scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=i;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=fnNextTab(fDir);
+
+ if (iNextTab>=0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");",5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=fnTabToCol(iTab);
+ var i;
+
+ if (iTab>=0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=0;i<=4;i++) {
+     with (rows[i]) {
+      if (i==0)
+       cells[iCol].style.background=c_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=c_rgszClr[2];
+        cells[iCol].style.background=c_rgszClr[0];
+        cells[iCol+1].style.background=c_rgszClr[2];
+       } else {
+        if (i==1) {
+         cells[iCol-1].style.background=c_rgszClr[2];
+         cells[iCol].style.background=c_rgszClr[1];
+         cells[iCol+1].style.background=c_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=c_rgszClr[4];
+         cells[iCol].style.background=c_rgszClr[(i==2)?2:4];
+         cells[iCol+1].style.background=c_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=c_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=(fActive?"default":"hand");
+    color=c_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=c_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=g_iShCur) {
+  var iCol=fnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=c_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=0) {
+  var elFrom=frames['frTabs'].event.srcElement;
+  var elTo=frames['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName==elTo.tagName) ||
+   (elTo.tagName=="A" && elTo.parentElement!=elFrom) ||
+   (elFrom.tagName=="A" && elFrom.parentElement!=elTo)) {
+
+   if (iTab!=g_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=c_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=g_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=iSh;
+ }
+}
+
+ window.g_iIEVer=fnGetIEVer();
+ if (window.g_iIEVer>=4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Worksheet</x:Name>
+    <x:WorksheetSource HRef="all-star_files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef="all-star_files/stylesheet.css"/>
+  <x:WindowHeight>8772</x:WindowHeight>
+  <x:WindowWidth>23040</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows="*,39" border=0 width=0 frameborder=no framespacing=0>
+ <frame src="all-star_files/sheet001.htm" name="frSheet">
+ <frame src="all-star_files/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
+ <noframes>
+  <body>
+   <p>This page uses frames, but your browser doesn't support them.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
